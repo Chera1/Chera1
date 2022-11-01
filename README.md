@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Chera1, my name is Artem
-- 👀 I’m interested in Pythone develop and I want to achieve success
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me - my number is 8(918)3877059
+👋 Hi, my name is Artem
+👀 I’m Python enthusiast and learner
+🌱 Currently studying Python backend development
+💞 Looking for collaboration opportunities
+📫 You can reach me at CherednichenkoArtemAlbertovich@gmail.com 
 
 <!---
 Chera1/Chera1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
